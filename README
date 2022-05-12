@@ -1,0 +1,12 @@
+1.	Download and install Open Server
+2.	Unpack the files from archive to D:\OpenServer\domains or whichever folder openserver is installed in.
+3.	Run Open Server panel, right click icon in bottom left corner of the screen got to Settings->Domains
+4.	
+5.	Add the desirable domain name and the folder/public of this domain as you see on the sample
+ 
+6.	Open the Open Server console
+7.	Cd into the project folder 
+8.	Find .env file inside the project folder and adjust the following settings: 
+9.	Run “composer install” in console.
+10.	Go to Open Server Panel -> My projects and run your project from there  
+11.	Enjoy the store 
